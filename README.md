@@ -6,7 +6,7 @@
 
 ### Hi there 👋 I'm StraySpeed.
 Always make something weird.   
-Abnormal, geek, bizzare, ...   
+Abnormal, geek, bizarre, ...   
 Just a.. freak.   
 
 
