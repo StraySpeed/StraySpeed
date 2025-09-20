@@ -15,8 +15,10 @@ Just a.. freak.
 <br/>
 
 ## 🛠️Stacks
+<img width="300" height="300" align="right" src="https://github.com/user-attachments/assets/84c526b5-b59f-4bca-9158-3083fa32c097" />
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-DB3552?style=flat"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=Raspberry_Pi&logoColor=white"/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StraySpeed&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=10"/>
