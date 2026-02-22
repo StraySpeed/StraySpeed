@@ -9,13 +9,12 @@ Always make something weird.
 Abnormal, geek, bizarre, ...   
 Just a.. freak.   
 
-
 ## Status
-<img src="https://github-readme-stats.vercel.app/api?username=StraySpeed&show_icons=true&theme=radical"/><img align="right" src="https://user-images.githubusercontent.com/99028995/215521923-6bf41ebf-68dd-4769-8fef-5a382d5ec78e.png"/>
+<img src="/profile/stats.svg"/><img align="right" src="https://user-images.githubusercontent.com/99028995/215521923-6bf41ebf-68dd-4769-8fef-5a382d5ec78e.png"/>
 <br/>
 
 ## 🛠️Stacks
-<img width="300" height="300" align="right" src="https://github.com/user-attachments/assets/84c526b5-b59f-4bca-9158-3083fa32c097" />
+<img width="300" height="300" align="right" src="profile/top-langs.svg" />
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-DB3552?style=flat"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 <br/>
