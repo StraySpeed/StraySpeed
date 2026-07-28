@@ -26,33 +26,21 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: >-
-            username=StraySpeed&
-            show_icons=true&
-            theme=tokyonight&
-            include_all_commits=true&
-            rank_icon=github&
-            show=prs_merged,prs_reviewed&
-            locale=en
+          options: '{"username":"StraySpeed","show_icons":true,"theme":"tokyonight","include_all_commits":true,"rank_icon":"github","show":"prs_merged,prs_reviewed","locale":"en"}'
           path: profile/stats.svg
           core_version: 2.1.5
           fail_on_error: true
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STRAYSPEED_TOKEN }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: >-
-            username=StraySpeed&
-            layout=compact&
-            langs_count=6&
-            theme=tokyonight&
-            locale=en
+          options: '{"username":"StraySpeed","layout":"compact","langs_count":6,"theme":"tokyonight","locale":"en"}'
           path: profile/top-langs.svg
           core_version: 2.1.5
           fail_on_error: true
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STRAYSPEED_TOKEN }}
 
       - name: Commit updated cards
         run: |
