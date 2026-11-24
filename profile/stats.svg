@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">김승우&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits  : 626, Total PRs: 11, Total PRs Merged: 10, Total Issues: 5, PRs Reviewed: 0, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 1, Total Commits  : 626, Total PRs: 12, Total PRs Merged: 11, Total Issues: 5, PRs Reviewed: 0, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 221.43719759680758;
+        stroke-dashoffset: 220.69451729762255;
       }
     }
   
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >11</text>
+      >12</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >10</text>
+      >11</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -252,7 +252,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >9</text>
+      >10</text>
     </g>
   </g>
     </svg>
